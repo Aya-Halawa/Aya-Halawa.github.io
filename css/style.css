@@ -128,7 +128,7 @@ a:focus {
     color: #fe9201;
 }
 
-.navbar .navbar-brand:hover span {
+.navbar .navbar-brand:hover span:last-of-type {
     color: #fe9201;
 }
 
